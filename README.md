@@ -2,9 +2,9 @@
 
 React-Native plugin for the bluetooth ESC/POS & TSC printers.
 
-Any questions or bug please raise a issue.
+Any questions or bugs please raise an issue.
 
-##Still under developement
+##Still under development
 
 #May support Android /IOS
 
